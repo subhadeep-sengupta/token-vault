@@ -8,14 +8,14 @@ This repo demonstrates creating a programmable token vault on Solana devnet, and
 - Network Solana Devnet
 ---
 # Demo Proof
-- Vault PDA:E5CqxhBVLUwaaCEmg2PPFo7cJeXym283fW62S65c9vrT(https://explorer.solana.com/address/E5CqxhBVLUwaaCEmg2PPFo7cJeXym283fW62S65c9vrT?cluster=devnet)
+- Vault PDA: [E5CqxhBVLUwaaCEmg2PPFo7cJeXym283fW62S65c9vrT](https://explorer.solana.com/address/E5CqxhBVLUwaaCEmg2PPFo7cJeXym283fW62S65c9vrT?cluster=devnet)
 
 ![Vault Pda](./docs/vaultpda.png)
 
-- Program Deployed:3Qy5Qdhxx3c7xCmB1tyUF2swceQkMit5X62yzzeP5xRBM4ZrL3Cy5v9tk3Gm1cvmCkcnhwyLG4jvbDGbqTnxujTD(https://explorer.solana.com/tx/3Qy5Qdhxx3c7xCmB1tyUF2swceQkMit5X62yzzeP5xRBM4ZrL3Cy5v9tk3Gm1cvmCkcnhwyLG4jvbDGbqTnxujTD?cluster=devnet)
-- Initialized Vault: 5JKpitPxigMAtV4GnngH2EASuHBxu33tocXXmdQ2DwwPyGAQUMEYvbvv1pwmjf15iFQT2XcGC5VYeurz9fxoHspK(https://explorer.solana.com/tx/5JKpitPxigMAtV4GnngH2EASuHBxu33tocXXmdQ2DwwPyGAQUMEYvbvv1pwmjf15iFQT2XcGC5VYeurz9fxoHspK?cluster=devnet)
-- Deposit: 3s4p2nD8GMfAkcof1mQL9Rd6hP5ycwtwG51NoqraMEjUaAQvZMeKtmXs5TAMmGb1wHURTqXwpLCWzkBvHiQnkTKb(https://explorer.solana.com/tx/3s4p2nD8GMfAkcof1mQL9Rd6hP5ycwtwG51NoqraMEjUaAQvZMeKtmXs5TAMmGb1wHURTqXwpLCWzkBvHiQnkTKb?cluster=devnet)
-- Mint: Gc59RHS7UybGB9NWPKZWyGypQU761vZoEQ1AJjgRXjBP(https://explorer.solana.com/address/Gc59RHS7UybGB9NWPKZWyGypQU761vZoEQ1AJjgRXjBP?cluster=devnet)
+- Program Deployed:[3Qy5Qdhxx3c7xCmB1tyUF2swceQkMit5X62yzzeP5xRBM4ZrL3Cy5v9tk3Gm1cvmCkcnhwyLG4jvbDGbqTnxujTD](https://explorer.solana.com/tx/3Qy5Qdhxx3c7xCmB1tyUF2swceQkMit5X62yzzeP5xRBM4ZrL3Cy5v9tk3Gm1cvmCkcnhwyLG4jvbDGbqTnxujTD?cluster=devnet)
+- Initialized Vault: [5JKpitPxigMAtV4GnngH2EASuHBxu33tocXXmdQ2DwwPyGAQUMEYvbvv1pwmjf15iFQT2XcGC5VYeurz9fxoHspK](https://explorer.solana.com/tx/5JKpitPxigMAtV4GnngH2EASuHBxu33tocXXmdQ2DwwPyGAQUMEYvbvv1pwmjf15iFQT2XcGC5VYeurz9fxoHspK?cluster=devnet)
+- Deposit: [3s4p2nD8GMfAkcof1mQL9Rd6hP5ycwtwG51NoqraMEjUaAQvZMeKtmXs5TAMmGb1wHURTqXwpLCWzkBvHiQnkTKb](https://explorer.solana.com/tx/3s4p2nD8GMfAkcof1mQL9Rd6hP5ycwtwG51NoqraMEjUaAQvZMeKtmXs5TAMmGb1wHURTqXwpLCWzkBvHiQnkTKb?cluster=devnet)
+- Mint: [Gc59RHS7UybGB9NWPKZWyGypQU761vZoEQ1AJjgRXjBP](https://explorer.solana.com/address/Gc59RHS7UybGB9NWPKZWyGypQU761vZoEQ1AJjgRXjBP?cluster=devnet)
 
 ---
 # Step 1: Deploy the Vault Program
